@@ -1,0 +1,9 @@
+
+{
+    "name": "{NAMEOFYOURAPP}",
+       "integrations": {
+         "capacitor": {}
+       },
+       "type": "react"
+     }
+

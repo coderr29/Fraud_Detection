@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.concertopia",
+  "appName": "Concertopia",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
